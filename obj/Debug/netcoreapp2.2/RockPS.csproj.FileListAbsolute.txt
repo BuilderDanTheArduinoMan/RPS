@@ -1,0 +1,11 @@
+C:\source\codeworks\RockPS\bin\Debug\netcoreapp2.2\RockPS.deps.json
+C:\source\codeworks\RockPS\bin\Debug\netcoreapp2.2\RockPS.runtimeconfig.json
+C:\source\codeworks\RockPS\bin\Debug\netcoreapp2.2\RockPS.runtimeconfig.dev.json
+C:\source\codeworks\RockPS\bin\Debug\netcoreapp2.2\RockPS.dll
+C:\source\codeworks\RockPS\bin\Debug\netcoreapp2.2\RockPS.pdb
+C:\source\codeworks\RockPS\obj\Debug\netcoreapp2.2\RockPS.csprojAssemblyReference.cache
+C:\source\codeworks\RockPS\obj\Debug\netcoreapp2.2\RockPS.csproj.CoreCompileInputs.cache
+C:\source\codeworks\RockPS\obj\Debug\netcoreapp2.2\RockPS.AssemblyInfoInputs.cache
+C:\source\codeworks\RockPS\obj\Debug\netcoreapp2.2\RockPS.AssemblyInfo.cs
+C:\source\codeworks\RockPS\obj\Debug\netcoreapp2.2\RockPS.dll
+C:\source\codeworks\RockPS\obj\Debug\netcoreapp2.2\RockPS.pdb
